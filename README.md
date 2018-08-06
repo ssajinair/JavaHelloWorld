@@ -1,2 +1,3 @@
 # JavaHelloWorld
-Initial Days Program as self learning
+Hi There,
+These are my Initial Day Program for self learning.
